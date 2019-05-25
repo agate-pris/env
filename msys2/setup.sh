@@ -27,3 +27,5 @@ pacman --needed -Suu \
     mingw-w64-i686-ag \
     mingw-w64-x86_64-ag \
     mingw-w64-x86_64-meld3
+git config --global user.email "agate-pris@users.noreply.github.com"
+git config --global user.name "agate-pris"
