@@ -1,6 +1,8 @@
 #!/bin/sh
 # Userful packages and tools from
 # https://github.com/msys2/msys2/wiki/Creating-Packages#useful-packages-and-tools
+# https://packages.msys2.org/base
+# https://github.com/rbenv/ruby-build/wiki
 pacman -Syuu && \
 pacman --needed -Suu \
     base-devel \
@@ -26,6 +28,12 @@ pacman --needed -Suu \
     perl-ack \
     mingw-w64-i686-ag \
     mingw-w64-x86_64-ag \
-    mingw-w64-x86_64-meld3
-git config --global user.email "agate-pris@users.noreply.github.com"
-git config --global user.name "agate-pris"
+    mingw-w64-x86_64-meld3 \
+    libffi \
+    libyaml \
+    openssl \
+    zlib
+# git config --global user.email "agate-pris@users.noreply.github.com"
+# git config --global user.name "agate-pris"
+# msys2-runtime
+# msys2-runtime-devel
