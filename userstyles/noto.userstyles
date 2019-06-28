@@ -1,0 +1,20 @@
+@font-face{font-family:"arial";                     src:local("noto sans cjk jp");     }
+@font-face{font-family:"meiryo";                    src:local("noto sans cjk jp");     }
+@font-face{font-family:"segoe ui";                  src:local("noto sans cjk jp");     }
+@font-face{font-family:"helvetica neue";            src:local("noto sans cjk jp");     }
+@font-face{font-family:"hiragino kaku gothic pron"; src:local("noto sans cjk jp");     }
+@font-face{font-family:"osaka";                     src:local("noto sans cjk jp");     }
+@font-face{font-family:"roboto";                    src:local("noto sans cjk jp");     }
+@font-face{font-family:"tahoma";                    src:local("noto sans cjk jp");     }
+@font-face{font-family:"verdana";                   src:local("noto sans cjk jp");     }
+@font-face{font-family:"メイリオ";                  src:local("noto sans cjk jp");     }
+@font-face{font-family:"times new roman";           src:local("noto serif cjk jp");    }
+@font-face{font-family:"andale mono";               src:local("noto sans mono cjk jp");}
+@font-face{font-family:"consolas";                  src:local("noto sans mono cjk jp");}
+@font-face{font-family:"courier new";               src:local("noto sans mono cjk jp");}
+@font-face{font-family:"dejavu sans mono";          src:local("noto sans mono cjk jp");}
+@font-face{font-family:"liberation mono";           src:local("noto sans mono cjk jp");}
+@font-face{font-family:"lucida console";            src:local("noto sans mono cjk jp");}
+@font-face{font-family:"menlo";                     src:local("noto sans mono cjk jp");}
+@font-face{font-family:"ms gothic";                 src:local("noto sans mono cjk jp");}
+@font-face{font-family:"ubuntu mono";               src:local("noto sans mono cjk jp");}
