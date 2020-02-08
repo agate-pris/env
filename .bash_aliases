@@ -1,3 +1,4 @@
+alias g="git"
 alias gae="git add --edit"
 alias gai="git add --interactive"
 alias gap="git add --patch"
